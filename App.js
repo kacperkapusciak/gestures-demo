@@ -1,15 +1,15 @@
 import * as React from "react";
 import { StyleSheet, View, Button } from "react-native";
+import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
-import Pan from "./screens/Pan";
-import Tap from "./screens/Tap";
-import LongPress from "./screens/LongPress";
-import Rotation from "./screens/Rotation";
-import Pinch from "./screens/Pinch";
-import Fling from "./screens/Fling";
-import { GestureHandlerRootView } from "react-native-gesture-handler";
+import Pan from "./gestures/Pan";
+import Tap from "./gestures/Tap";
+import LongPress from "./gestures/LongPress";
+import Rotation from "./gestures/Rotation";
+import Pinch from "./gestures/Pinch";
+import Fling from "./gestures/Fling";
 
 const SCREENS = [
   {
