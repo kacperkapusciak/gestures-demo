@@ -2,12 +2,12 @@
 
 This repo shows the example usage of the following gestures:
 
-- `Gesture.Pan()`
-- `Gesture.Tap()`
-- `Gesture.LongPress()`
-- `Gesture.Rotation()`
-- `Gesture.Pinch()`
-- `Gesture.Fling()`
+- [`Gesture.Pan()`](https://github.com/kacperkapusciak/gestures-demo/blob/main/gestures/Pan.js)
+- [`Gesture.Tap()`](https://github.com/kacperkapusciak/gestures-demo/blob/main/gestures/Tap.js)
+- [`Gesture.LongPress()`](https://github.com/kacperkapusciak/gestures-demo/blob/main/gestures/LongPress.js)
+- [`Gesture.Rotation()`](https://github.com/kacperkapusciak/gestures-demo/blob/main/gestures/Rotation.js)
+- [`Gesture.Pinch()`](https://github.com/kacperkapusciak/gestures-demo/blob/main/gestures/Pinch.js)
+- [`Gesture.Fling()`](https://github.com/kacperkapusciak/gestures-demo/blob/main/gestures/Fling.js)
 
 Project works on iOS, Android, and Web via Expo Go.
 
